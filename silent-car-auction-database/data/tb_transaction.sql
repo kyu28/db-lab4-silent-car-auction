@@ -1,0 +1,10 @@
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (14, 2, 20000.00, TO_DATE('2023-09-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (8, 3, 30000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (10, 8, 50000.00, TO_DATE('2023-10-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (1, 1, 10000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (13, 8, 80000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (15, 10, 100000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (11, 6, 60000.00, TO_DATE('2023-09-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (13, 7, 70000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (8, 4, 40000.00, TO_DATE('2023-11-10', 'YYYY-MM-DD'));
+INSERT INTO tb_transaction (auto_id, customer_id, bid, bid_date) VALUES (14, 9, 90000.00, TO_DATE('2023-10-10', 'YYYY-MM-DD'));
